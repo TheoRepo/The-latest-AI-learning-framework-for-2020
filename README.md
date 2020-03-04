@@ -26,3 +26,5 @@
 
 ### Ⅰ、适用于经典机器学习的工具
 ![](pic/scikit-learn.JPG)
+**一、Scikit-learn star 39.2k fork 19.2k**
+scikit-learn是一种强大的基于Python语言的机器学习算法库（）
