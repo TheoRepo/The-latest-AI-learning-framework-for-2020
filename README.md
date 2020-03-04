@@ -25,4 +25,4 @@
 Ⅺ、评分推理系统（42-43）
 
 ### Ⅰ、适用于经典机器学习的工具
-![](scikit-learn.png)
+![](pic/scikit-learn.png)
